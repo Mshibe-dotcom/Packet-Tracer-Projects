@@ -1,0 +1,2 @@
+--This command is used to check the connectivity between end devices--
+ping 192.168.1.11
