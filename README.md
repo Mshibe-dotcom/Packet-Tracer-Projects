@@ -1,5 +1,3 @@
-# Project 01: Basic Connectivity (Two PCs)
-
 # Cisco Packet Tracer Projects
 Hands-on networking labs from fundamentals to advanced topics.
 
@@ -9,6 +7,8 @@ Hands-on networking labs from fundamentals to advanced topics.
 - ...
 
 More projects coming soon!
+
+# Project 01: Basic Connectivity (Two PCs)
 
 # Overview
 Implemented a simple peer-to-peer network using two PCs connected via Ethernet in Cisco Packet Tracer. This project demonstrates fundamental networking concepts: cabling, IP addressing, and connectivity testing.
