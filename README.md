@@ -8,11 +8,11 @@ Implemented a simple peer-to-peer network using two PCs connected via Ethernet i
 # Topology
 ![Network Topology](topology.png)
 **PC0:**
-- IP Address: `192.168.1.1`
+- IP Address: `192.168.1.10`
 - Subnet Mask: `255.255.255.0`
 - Default Gateway: (not needed for direct connection)
   **PC1:**
-- IP Address: `192.168.1.2`
+- IP Address: `192.168.1.11`
 - Subnet Mask: `255.255.255.0`
   ## Testing & Verification
 ![Ping Test](ping-test.png)
