@@ -99,9 +99,9 @@ Connected two separate LANs using a router to enable inter-network communication
 ![Simple Router Network](Simple%20Router%20Network/Router-Commands.png)
 
 ## Testing
-![Simple Router Network](Simple%20Router%20Network/PCO-PC2-PDU-Simulation.png)
+![Simple Router Network](Simple%20Router%20Network/PC0-PC2-PDU-Simulation.png)
 
-**Ping PC2 ON PC1**
+## PC1 Ping PC2
 ![Simple Router Network](Simple%20Router%20Network/PC1-Ping.png)
 ## Skills Demonstrated
 - Router interface configuration
