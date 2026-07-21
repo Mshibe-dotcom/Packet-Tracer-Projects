@@ -88,7 +88,7 @@ Connected two separate LANs using a router to enable inter-network communication
 
 ## Configuration
 **LAN 1 (192.168.1.0/24)**
-Router G0/0/0: 192.168.1.3
-PCs: 192.168.1.1, 192.168.1.2
+- Router G0/0/0: 192.168.1.3
+- PCs: 192.168.1.1, 192.168.1.2
 
 
