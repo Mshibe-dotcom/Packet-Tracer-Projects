@@ -96,5 +96,6 @@ Connected two separate LANs using a router to enable inter-network communication
 -PCs: 192.168.2.1, 192.168.2.2
 
 ## Router CLI (Key Commands)
+![Simple Router Network](Simple%20Router%20Network/Router-Commands.png)
 
 
