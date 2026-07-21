@@ -98,4 +98,15 @@ Connected two separate LANs using a router to enable inter-network communication
 ## Router CLI (Key Commands)
 ![Simple Router Network](Simple%20Router%20Network/Router-Commands.png)
 
+## Testing
+![Simple Router Network](Simple%20Router%20Network/PCO-PC2-PDU-Simulation.png)
+
+**Ping PC2 ON PC1**
+
+## Skills Demonstrated
+- Router interface configuration
+- Inter-VLAN / Inter-subnet routing
+- Static routing basics
+- End-to-End network troubleshooting
+
 
