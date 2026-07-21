@@ -19,8 +19,7 @@ Implemented a simple peer-to-peer network using two PCs connected via Ethernet i
 - Verify connectivity using ICMP ping
   
 # Topology
-<image-card alt="Basic Connectivity Topology" src="topology.png" ></image-card>
-
+![Basic Connectivity Topology](Basic%20Connectivity/topology.png)
 **PC2:**
 - IP Address: `192.168.1.10`
 - Subnet Mask: `255.255.255.0`
