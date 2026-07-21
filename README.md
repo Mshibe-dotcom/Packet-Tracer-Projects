@@ -29,7 +29,7 @@ Implemented a simple peer-to-peer network using two PCs connected via Ethernet i
 - Subnet Mask: `255.255.255.0`
   
   ## Testing & Verification
-![Ping Test](ping-test.png)
+![Basic Connectivity Topology](Basic%20Connectivity/PC2 Ping-Testing.png)
 Successful communication between devices confirmed.
 
 ## Skills Demonstrated
