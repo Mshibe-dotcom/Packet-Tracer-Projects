@@ -43,3 +43,35 @@ Successful communication between devices confirmed.
 This project reinforced the importance of matching cable types and correct IP configuration in the same subnet for direct device communication.
 
 # Project 02:Star Topology(one switch and four PCs)
+
+## Overview
+Built a basic local Area Network(LAN) using a central switch conneting multiple end devices. Ths demonstrate how switches handle traffic in a star topology.
+
+## Objectives
+-Create a star topology in Cisco Packet Tracer
+-Configure multiple devices with static IPv4 addresses
+-Verify full connectivity using ping
+
+## Topology
+![Star Topology](star.png)
+
+## Configuration
+**IP Addresses:**
+-PC0: '192.168.1.2'
+-PC3: '192.168.1.3'
+-PC4: '192.168.1.1'
+-PC5: '192.168.1.4'
+
+## Testing Verification
+![Ping Test](ping.png)
+All devices can communicate successfully.
+
+## Skills Demonstrated
+- Star topology design
+- Switch configuration basics
+- Ethernet cabling (straight-through)
+- Multi-device IP addressing & subnetting
+- Network testing and verification
+
+##Key Learnings
+A switch creates a star topology where all devices connect centrally. Unlike a simple peer-to-peer connection, this allows scalable LAN communication. All devices must be in the same subnet for direct communication without a router.
