@@ -80,8 +80,15 @@ A switch creates a star topology where all devices connect centrally. Unlike a s
 
 # Project 03: Simple Router Network(One Router,Two Switches,Four PCs)
 
-##Overview
+## Overview
 Connected two separate LANs using a router to enable inter-network communication.
 
-##Topology
+## Topology
 ![Simple Router Network](Simple%20Router%20Network/Simple-Router-Topology.png)
+
+## Configuration
+**LAN 1 (192.168.1.0/24)**
+Router G0/0/0: 192.168.1.3
+PCs: 192.168.1.1, 192.168.1.2
+
+
