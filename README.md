@@ -53,7 +53,9 @@ Built a basic local Area Network(LAN) using a central switch conneting multiple 
 -Verify full connectivity using ping
 
 ## Topology
-![Star Topology](./Star%20Topology/star-topology.png)
+![Star Topology](Star-Topology.png)
+
+*4 PCs connected to a central Switch in star topology.*
 
 ## Configuration
 **IP Addresses:**
