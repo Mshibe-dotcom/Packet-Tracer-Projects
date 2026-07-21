@@ -102,7 +102,7 @@ Connected two separate LANs using a router to enable inter-network communication
 ![Simple Router Network](Simple%20Router%20Network/PCO-PC2-PDU-Simulation.png)
 
 **Ping PC2 ON PC1**
-
+![Simple Router Network](Simple%20Router%20Network/PC1-Ping.png)
 ## Skills Demonstrated
 - Router interface configuration
 - Inter-VLAN / Inter-subnet routing
