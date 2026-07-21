@@ -77,3 +77,11 @@ All devices can communicate successfully.
 
 ##Key Learnings
 A switch creates a star topology where all devices connect centrally. Unlike a simple peer-to-peer connection, this allows scalable LAN communication. All devices must be in the same subnet for direct communication without a router.
+
+# Project 03: Simple Router Network(One Router,Two Switches,Four PCs)
+
+##Overview
+Connected two separate LANs using a router to enable inter-network communication.
+
+##Topology
+![Simple Router Network](Simple%20Router%20Network/Simple-Router-Topology.png)
