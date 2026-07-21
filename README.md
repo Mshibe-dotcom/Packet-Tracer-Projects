@@ -41,3 +41,5 @@ Successful communication between devices confirmed.
   
 ## Key Learnings
 This project reinforced the importance of matching cable types and correct IP configuration in the same subnet for direct device communication.
+
+# Project 02:Star Topology(one switch and four PCs)
