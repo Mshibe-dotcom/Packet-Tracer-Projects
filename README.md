@@ -91,4 +91,10 @@ Connected two separate LANs using a router to enable inter-network communication
 - Router G0/0/0: 192.168.1.3
 - PCs: 192.168.1.1, 192.168.1.2
 
+**LAN 2 (192.168.2.0/24)**
+-Router G0/0/1: 192.168.2.3
+-PCs: 192.168.2.1, 192.168.2.2
+
+## Router CLI (Key Commands)
+
 
