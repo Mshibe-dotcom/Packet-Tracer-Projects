@@ -123,4 +123,20 @@ Configured a DHCP server to automatically assign IP addresses to  client devices
 
 ![DHCP Config](DHCP%20Config/DHCP-Topology.png)
 
+**Devices**
+- 1 Router
+- 2 Swtches
+- 1 Server
+- 2 PCs
+- 2 Laptops
+
+## Configuration
+
+### DHCP Server Settings
+- Pool Name: LAN-1 / LAN-2
+- Network: 192.168.1.0/255.255.255.0 and 192.168.2.0 / 255.255.255.0
+- Default Gateway: Router interface IPS
+
+![DHCP Config](DHCP%20Config/Server-DHCP-Config.png)
+
 
