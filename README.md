@@ -115,11 +115,11 @@ Connected two separate LANs using a router to enable inter-network communication
 Configured a DHCP server to automatically assign IP addresses to  client devices in a multi-subnet network. This project demonstrate dynamic IP addressing and DHCP relay functionality using a router.
 
 ## Objectives
--Set up a DHCP server in Cisco Packet Tracer
--Create DHCP pools for different subnets
--Configure DHCP relay (ip helper-address) on the router
--Verify automatic IP assignment on client PCs
--Test end-to-end connectivity
+- Set up a DHCP server in Cisco Packet Tracer
+- Create DHCP pools for different subnets
+- Configure DHCP relay (ip helper-address) on the router
+- Verify automatic IP assignment on client PCs
+- Test end-to-end connectivity
 
 ![DHCP Config](DHCP%20Config/DHCP-Topology.png)
 
