@@ -139,4 +139,5 @@ Configured a DHCP server to automatically assign IP addresses to  client devices
 
 ![DHCP Config](DHCP%20Config/Server-DHCP-Config.png)
 
-
+**DHCP Server Settings**
+![DHCP Config](DHCP%20Config/Server-DHCP-Pools.png)
