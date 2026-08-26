@@ -121,6 +121,6 @@ Configured a DHCP server to automatically assign IP addresses to  client devices
 -Verify automatic IP assignment on client PCs
 -Test end-to-end connectivity
 
-![DHCP Config](DHCP-Topology.png)
+![DHCP Config](DHCP%20Config/DHCP-Topology.png)
 
 
