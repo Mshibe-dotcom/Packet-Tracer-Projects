@@ -143,11 +143,11 @@ Configured a DHCP server to automatically assign IP addresses to  client devices
 ![DHCP Config](DHCP%20Config/Server-DHCP-Pools.png)
 
 ### Router Configuration
-**interface g0/0**
+- **interface g0/0**
 - ip address 192.168.1.1 255.255.255.0
 - ip helper-address {Server ip 192.168.1.2}
 - no shutdown
-**interface g0/1**
+- **interface g0/1**
 - ip address 192.168.2.1 255.255.255.0
 - ip helper-address {Server ip 192.168.1.2}
 - no shutdown
