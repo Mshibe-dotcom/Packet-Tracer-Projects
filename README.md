@@ -149,10 +149,25 @@ Configured a DHCP server to automatically assign IP addresses to  client devices
 - no shutdown
 - **interface g0/1**
 - ip address 192.168.2.1 255.255.255.0
+- ip helper-address {Server ip 192.168.1.2}
+- no shutdown
+
 
 ## Client PCs
 - IP Configuration set to DHCP
 - Devices automatically receive IP, Default Gateway
+  
 ![DHCP Config](DHCP%20Config/PC-0-DHCP-Request.png)
-- ip helper-address {Server ip 192.168.1.2}
-- no shutdown
+
+## Testing & Varification
+- PCs successfully obtained IP addresses from the DHCP server.
+- Ping successfully
+- Verified DHCP bindings on the server
+
+## Skills Demonstrations
+- DHCP server configuratio
+- DHCP pools and options
+- DHCP Relay(IP Helper-address)
+  
+
+
